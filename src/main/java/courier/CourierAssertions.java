@@ -1,7 +1,6 @@
 package courier;
 
 import io.restassured.response.ValidatableResponse;
-
 import static org.hamcrest.CoreMatchers.is;
 import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.greaterThan;
